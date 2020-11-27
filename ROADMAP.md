@@ -37,7 +37,7 @@ The roadmap presented here is indicative and subject to change.
 **Cyclone 0.9, March 2021**
 
  * Integration of Durability Service for Transient and Persistent data
- * Shared memory transport support
+ * Shared memory transport support with zero-copy API
  * Python APIs (GA)
  * Internet-scale deployment support
  * DDS-Xtypes APIs
@@ -63,7 +63,7 @@ The roadmap presented here is indicative and subject to change.
  * Time-sensitive Networking support DDS-TSN
  * Rust language binding support
  * Certifiable DDS
- * Face 3 support
+ * FACE 3 support
  * Network Scheduling and Federated architecture support
  * [TrustZone](https://developer.arm.com/ip-products/security-ip/trustzone) support for DDS Security
 
